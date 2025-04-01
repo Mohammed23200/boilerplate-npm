@@ -1,6 +1,6 @@
 {
 	"name": "fcc-learn-npm-package-json",
-	"author":"Jimmy Master",
+	
 	"dependencies": {
 		"express": "^4.14.0"
 	},
@@ -11,5 +11,6 @@
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/freeCodeCamp/boilerplate-npm.git"
-	}
+	},
+	"author": "freeCodeCamp"
 }
